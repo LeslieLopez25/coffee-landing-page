@@ -62,7 +62,7 @@ img {
     height: auto;
 }
 
-/*===== LAYOUT =====*/
+/* LAYOUT */
 .bd-grid {
     max-width: 1024px;
     display: grid;
@@ -82,7 +82,7 @@ img {
     background-color: var(--first-color);
 }
 
-/*===== NAV =====*/
+/* NAV */
 .nav {
     height: var(--header-height);
     display: flex;
@@ -132,7 +132,7 @@ img {
     cursor: pointer;
 }
 
-/*=== Show menu ===*/
+/* SHOW MENU */
 .show {
     right: 0;
 }
