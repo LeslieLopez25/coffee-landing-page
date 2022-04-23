@@ -8,4 +8,4 @@
 
 ### Screenshots
 
-<img src="/screenshot/screenshot.png" width="200" transform: rotate(90deg)>
+<img src="/screenshot/screenshot.png" width="200">
