@@ -8,4 +8,4 @@
 
 ### Screenshots
 
-<img src="/screenshot/screenshot.png" width="200">
+<img src="/screenshot/screenshot.png" width="300">
